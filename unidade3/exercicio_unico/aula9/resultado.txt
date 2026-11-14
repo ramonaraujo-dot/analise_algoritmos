@@ -1,0 +1,11 @@
+Teste com o vetor do professor:
+Bubble: [11, 12, 22, 25, 34, 64, 90]
+Selection: [11, 12, 22, 25, 34, 64, 90]
+Merge: [11, 12, 22, 25, 34, 64, 90]
+
+Comparacao de tempos (milissegundos):
+Tamanho | Bubble | Selection | Merge
+1000 | 3.3194 | 2.3055 | 0.3699
+5000 | 18.7343 | 7.0728 | 1.4623
+10000 | 132.5907 | 30.9114 | 1.6804
+Analise de complexidade concluida
